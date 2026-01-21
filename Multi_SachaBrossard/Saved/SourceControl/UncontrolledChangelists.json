@@ -9,12 +9,16 @@
 				"C:/Users/sbrossard/Documents/GitHub/Multiplayer_UnrealEngine5_SachaBrossard/Multi_SachaBrossard/Content/TopDown/Input/IMC_Default.uasset",
 				"C:/Users/sbrossard/Documents/GitHub/Multiplayer_UnrealEngine5_SachaBrossard/Multi_SachaBrossard/Content/TopDown/Blueprints/BP_TopDownController.uasset",
 				"C:/Users/sbrossard/Documents/GitHub/Multiplayer_UnrealEngine5_SachaBrossard/Multi_SachaBrossard/Content/TopDown/Input/Actions/IA_Move.uasset",
-				"C:/Users/sbrossard/Documents/GitHub/Multiplayer_UnrealEngine5_SachaBrossard/Multi_SachaBrossard/Content/__ExternalActors__/TopDown/Lvl_TopDown/A/OH/Y1ZP20LMYSF59GW0VJUKT3.uasset",
 				"C:/Users/sbrossard/Documents/GitHub/Multiplayer_UnrealEngine5_SachaBrossard/Multi_SachaBrossard/Content/Custom_Blueprint/BP_Bullet.uasset",
 				"C:/Users/sbrossard/Documents/GitHub/Multiplayer_UnrealEngine5_SachaBrossard/Multi_SachaBrossard/Content/TopDown/Input/Actions/IA_Fire.uasset",
+				"C:/Users/sbrossard/Documents/GitHub/Multiplayer_UnrealEngine5_SachaBrossard/Multi_SachaBrossard/Content/Custom_Blueprint/WBP_HealthBar.uasset",
+				"C:/Users/sbrossard/Documents/GitHub/Multiplayer_UnrealEngine5_SachaBrossard/Multi_SachaBrossard/Content/Custom_Blueprint/BP_GameInstance_Multi.uasset",
+				"C:/Users/sbrossard/Documents/GitHub/Multiplayer_UnrealEngine5_SachaBrossard/Multi_SachaBrossard/Content/Custom_Blueprint/WBP_MENU.uasset",
+				"C:/Users/sbrossard/Documents/GitHub/Multiplayer_UnrealEngine5_SachaBrossard/Multi_SachaBrossard/Content/TopDown/Lvl_Menu.umap",
+				"C:/Users/sbrossard/Documents/GitHub/Multiplayer_UnrealEngine5_SachaBrossard/Multi_SachaBrossard/Content/TopDown/Lvl_TopDown.umap",
+				"C:/Users/sbrossard/Documents/GitHub/Multiplayer_UnrealEngine5_SachaBrossard/Multi_SachaBrossard/Content/__ExternalActors__/TopDown/Lvl_TopDown/A/OH/Y1ZP20LMYSF59GW0VJUKT3.uasset",
 				"C:/Users/sbrossard/Documents/GitHub/Multiplayer_UnrealEngine5_SachaBrossard/Multi_SachaBrossard/Content/Custom_Blueprint/BP_PlayerState.uasset",
-				"C:/Users/sbrossard/Documents/GitHub/Multiplayer_UnrealEngine5_SachaBrossard/Multi_SachaBrossard/Content/Custom_Blueprint/WBP_HUD.uasset",
-				"C:/Users/sbrossard/Documents/GitHub/Multiplayer_UnrealEngine5_SachaBrossard/Multi_SachaBrossard/Content/Custom_Blueprint/WBP_HealthBar.uasset"
+				"C:/Users/sbrossard/Documents/GitHub/Multiplayer_UnrealEngine5_SachaBrossard/Multi_SachaBrossard/Content/Custom_Blueprint/WBP_HUD.uasset"
 			]
 		}
 	]
